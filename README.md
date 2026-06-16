@@ -25,5 +25,9 @@ Interactive Power BI dashboard analyzing **Blinkit grocery sales data** across m
 - DAX Measures
 - Dataset: BlinkIT Grocery Data
 
+## 📸 Dashboard Preview
+![Dashboard](dashboard-preview.png)
+
+
 ## 👤 Author
 **Vinay Lashkari** — Data Analyst | Pune, India
